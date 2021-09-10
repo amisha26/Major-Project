@@ -11,7 +11,7 @@
 ## Project Contributors 
 
 * Front-End Part is done [amisha26](https://github.com/amisha26) & [gamitej](https://github.com/gamitej) 
-* BackEnd and Database is done by my friend [prklm10](https://github.com/prklm10)
+* BackEnd and Database is done by [prklm10](https://github.com/prklm10)
 * Back-End [Repo](https://github.com/prklm10/E-Commerce-MERN) 
 
 ## Hosting 
