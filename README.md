@@ -1,9 +1,9 @@
-## Live [DEMO!](https://promajor.netlify.app/) 
+## Live [Demo!](https://promajor.netlify.app/) 
 
 ## Description
 
 * Sign and Signup as (Admin or User).
-* As Admin you can ADD new product, can edit it and also you can delete it.
+* As Admin you can Add products, can Edit products details and also you can Delete products.
 * As user you can add to cart the product.
 * In cart section you can view the product you added and can make payment ( we used STRIPE for this ).
 
@@ -19,7 +19,6 @@
 * Font-End -> [Netlify](https://www.netlify.com/)
 * Back-End -> [Heroku](https://www.heroku.com/)
 * DataBase (MongoDB)
-
 
 ### I HAVE REMOVE THE API'S WHICH I AM USING.
 ### I AM PUSHING THIS PROJECT AT ONCE SO THAT AT END I CAN REMOVE ALL API'S.  
