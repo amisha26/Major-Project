@@ -16,9 +16,6 @@
 
 ## Hosting 
 
-* Font-End -> [Netlify](https://www.netlify.com/)
-* Back-End -> [Heroku](https://www.heroku.com/)
+* Font-End - [Netlify](https://www.netlify.com/)
+* Back-End - [Heroku](https://www.heroku.com/)
 * DataBase (MongoDB)
-
-### I HAVE REMOVE THE API'S WHICH I AM USING.
-### I AM PUSHING THIS PROJECT AT ONCE SO THAT AT END I CAN REMOVE ALL API'S.  
